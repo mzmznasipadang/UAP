@@ -1,4 +1,3 @@
-
 /*
  * Copyright (c) 2023. Victor Chandra - 2602223386 - BO11
  */
@@ -43,7 +42,7 @@ public class Main {
                 System.out.println("Thank you for using EeLkabucks Application");
             System.out.println("eLKabucks uses the highest quality arabica coffee as the base for its beloved drinks");
             System.out.println("Learn about our unique coffee makers and cold brew coffee today.");
-            System.out.println("Created and loved by NP (Victor Chandra) - 2602223386");
+            System.out.println("Created and loved by MzMzNasiPadang (Victor Chandra) - 2602223386");
         }while(choice !=4);
     }
 
