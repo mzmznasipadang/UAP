@@ -39,6 +39,11 @@ public class Main {
                 ViewCoffee();
             else if (choice == 3)
                 DeleteCoffee();
+            else if (choice == 4)
+                System.out.println("Thank you for using EeLkabucks Application");
+            System.out.println("eLKabucks uses the highest quality arabica coffee as the base for its beloved drinks");
+            System.out.println("Learn about our unique coffee makers and cold brew coffee today.");
+            System.out.println("Created and loved by NP (Victor Chandra) - 2602223386");
         }while(choice !=4);
     }
 

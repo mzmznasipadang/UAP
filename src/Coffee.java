@@ -1,3 +1,8 @@
+
+/*
+ * Copyright (c) 2023. Victor Chandra - 2602223386 - BO11
+ */
+
 public class Coffee {
 
     private String name;
